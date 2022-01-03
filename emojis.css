@@ -1,0 +1,26 @@
+img
+{
+    width: 10em;
+    height: 20em;
+}
+#sel_1
+{
+    width: 20em;
+    height:2em;
+}
+.container
+{
+    background-color:aquamarine;
+}
+#row
+{
+    background-color: burlywood;
+}
+#sel_1
+{
+    background-color: cornflowerblue;
+}
+#title
+{
+    background-color: darkkhaki;
+}
